@@ -16,6 +16,12 @@ Moderators' Mail, or Modmail for short, is a quick and easy way to start a priva
 
 The bot is based on [Kyb3er's modmail](https://github.com/kyb3r/modmail), and our fork can be found [here](https://github.com/Microsoft-community/modmail).
 
+### Solaris
+
+Solaris is our in-house XP/levelling bot. As members send messages, Solaris rewards them with XP, which goes towards levelling up. At different milestones, members are rewarded for their activity in the server with new roles and permissions. 
+
+Solaris code is [available on GitHub](https://github.com/Microsoft-community/Polaris-Open). For the bot Solaris was based on, you'll want to take a look at [Polaris](https://github.com/GDColon/Polaris-Open) by [GD Colon](https://gdcolon.com/).
+
 ### Corpinator
 
 Corpinator is developed by [Cisien](https://github.com/cisien) and helps us verify real Microsoft employees utilising Azure AD. Legitimate employees are given a shiny role to help others identify them, as well as access to a private channel.
@@ -32,14 +38,13 @@ You can find Dotsimus' website [here](https://dotsimus.com/). Additionally, you 
 
 | Bot                 | Website                                                                                               | Function                |
 |---------------------|-------------------------------------------------------------------------------------------------------|-------------------------|
-| Dyno/Dyno Premium   | [https://dyno.gg](https://dyno.gg/)                                                                   | Logging                 |
+| Dyno/Dyno Premium   | [https://dyno.gg](https://dyno.gg/)                                                                   | Logging/Custom commands |
 | Ninja Cat           | [https://github.com/Goldfish64/NinjaCatDiscordBot](https://github.com/Goldfish64/NinjaCatDiscordBot/) | Insider info            |
 | Disboard            | [https://disboard.org](https://disboard.org/)                                                         | Public server listing   |
 | DiscordServers      | [https://discordservers.com](https://discordservers.com/)                                             | Public server listing   |
 | DSL                 | [https://top.gg/servers](https://top.gg/servers/)                                                     | Public server listing   |
 | Flareon             | [https://github.com/Ignaciox](https://github.com/Ignaciox/)                                           | Music                   |
 | Heartosoft          | [https://github.com/Microsoft-community/starboard](https://github.com/Microsoft-community/starboard)  | Starboard               |
-| Microsoft Community | [https://mee6.xyz](https://mee6.xyz/)                                                                 | Levelling and utilities |
 | Statbot             | [https://statbot.net](https://statbot.net/)                                                           | Server statistics       |
 | Satya Nadella       | [https://github.com/sylveon/SatyaNadella](https://github.com/sylveon/SatyaNadella)                    | Giveaways               |
 | Vortex              | [https://github.com/jagrosh/Vortex](https://github.com/jagrosh/Vortex/)                               | Moderation              |
